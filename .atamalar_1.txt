@@ -1,0 +1,61 @@
+if - Agar
+
+else - Aks holda
+
+elif - Yoki
+
+> katta 
+
+< kichik 
+
+>= katta yoki teng 
+
+<= kichik yoki teng 
+
+== teng 
+
+!= teng emas 
+
+-= ayirish 
+
++= qoshish
+
+*= kopaytirish
+
+-= bolish 
+
+True - rost 
+
+False - yolg`on
+
+a = int(input(""))
+
+in Teng
+
+or Yoki
+
+and va
+
+not Negativ
+
+
+from datetime import datetime
+
+print(datetime.now())
+
+
+
+
+List -- []
+
+Set -- ()
+
+
+w -- FAYLGA yozish uchun qo`llaniladi
+
+r -- FAYLNI o`qish uchun qo`llaniladi
+
+a -- FAYLNI o`qish uchun qo`llaniladi
+
+
+pass -- Berilgan funksiyani ishlatmay turadi
